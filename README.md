@@ -1,3 +1,4 @@
+---
 # lua
-### Lua seems pretty cool ig
+### Lua seems pretty cool fr
 ---
